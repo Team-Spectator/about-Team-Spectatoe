@@ -1,2 +1,2 @@
-# about-Team-Spectatoe
+# about-team-spectator
 The about page
