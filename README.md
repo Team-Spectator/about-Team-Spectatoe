@@ -1,2 +1,2 @@
-# ABout-Team-Spectator
+# About-Team-Spectator
 The official Team Spectator webpage.
