@@ -1,2 +1,2 @@
 # about-team-spectator
-The about page
+The official Team Spectator webpage.
